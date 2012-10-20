@@ -1,5 +1,0 @@
-cron:
-- description: daily 6d, 4d, 2d, swetres job
-  url: /tasks
-  schedule: every 4 hours from 11:10 to 21:10
-  timezone: Asia/Shanghai
